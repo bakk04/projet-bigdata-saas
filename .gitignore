@@ -1,0 +1,21 @@
+# Environnements virtuels Python
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Ivy et caches Spark
+.ivy2/
+metastore_db/
+derby.log
+
+# Sauvegardes temporaires
+.backup_pre_remediation/
